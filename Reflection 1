@@ -1,0 +1,2 @@
+Reflection 1: How did viewing a diff between two versions of a file help you see the bug that was introduced? 
+	Viewing diff between the two versions allows you to see what was changed between the two versions of a file which makes it easy to distinguish the introduced bug from the working code. 
